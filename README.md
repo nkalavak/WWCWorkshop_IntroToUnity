@@ -24,3 +24,5 @@ UWP: Visual Studio 2015 or later and Windows 10 SDK;
 IL2CPP scripting backend also requires C++ compiler feature to be installed with Visual Studio.
    
 WebGL: Mac OS X 10.9+ or Windows 7 SP1+ (64-bit editor only).   
+
+
