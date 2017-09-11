@@ -1,5 +1,11 @@
 # Introduction-to-Unity-WWC-Workshop
 
+
+# Seattle AR/VR Hackathon: https://www.eventbrite.com/e/seattle-vr-hackathon-6-tickets-36462884469?aff=es2   
+(Event also has a free networking mixer on Friday 9/15/2017. The apps developed during the hackathon are open for viewing by the public, do come on the evening of 9/17/2017)
+
+## Microsoft Dream Build Play: https://developer.microsoft.com/en-us/windows/projects/campaigns/dream-build-play-challenge   
+
 ## Installing Unity on Windows or MacOS
 
 For basic Unity development, ensure your system meets the following requirements:   
@@ -26,8 +32,4 @@ IL2CPP scripting backend also requires C++ compiler feature to be installed with
 WebGL: Mac OS X 10.9+ or Windows 7 SP1+ (64-bit editor only).   
 
 
-# Seattle AR/VR Hackathon: https://www.eventbrite.com/e/seattle-vr-hackathon-6-tickets-36462884469?aff=es2   
-(Event also has a free networking mixer on Friday 9/15/2017. The apps developed during the hackathon are open for viewing by the public, do come on the evening of 9/17/2017)
-
-## Microsoft Dream Build Play: https://developer.microsoft.com/en-us/windows/projects/campaigns/dream-build-play-challenge
 
